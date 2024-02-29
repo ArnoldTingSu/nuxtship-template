@@ -2,7 +2,7 @@
   <div
     class="bg-gradient-to-r from-red-600 to-indigo-600 px-20 py-20 mt-20 mb-0 mx-auto max-w-5xl rounded-lg flex flex-col items-center text-center"
   >
-    <h2 class="text-white text-3xl md:text-6xl">WEkanban</h2>
+    <h2 class="text-white text-3xl md:text-6xl">Kanban</h2>
     <p class="text-slate-200 mt-4 text-lg md:text-xl">
       Dynamic workflow board
     </p>
