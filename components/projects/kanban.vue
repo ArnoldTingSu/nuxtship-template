@@ -7,7 +7,7 @@
       Dynamic workflow board
     </p>
     <div class="flex mt-5">
-      <LandingLink href="https://kanban.arnold.su" styleName="inverted">Let's Organize</LandingLink>
+      <LandingLink href="https://kanban.arnold.su" target="_blank" styleName="inverted">Let's Organize</LandingLink>
     </div>
   </div>
   <div class="mt-5 mb-20">
@@ -19,7 +19,7 @@
       <Icon class="h-8 md:h-14" name="simple-icons:tailwindcss" size="48" />
       <Icon class="h-8 md:h-14" name="simple-icons:vuedotjs" size="48" />
       <Icon class="h-8 md:h-14" name="simple-icons:python" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:solidity" size="48" />
+      <Icon class="h-8 md:h-12" name="simple-icons:firebase" size="48" />
       <Icon class="h-8 md:h-12" name="simple-icons:django" size="48" />
       <Icon class="h-8 md:h-12" name="simple-icons:cplusplus" size="48" />
     </div>

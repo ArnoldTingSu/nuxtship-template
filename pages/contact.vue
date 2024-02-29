@@ -19,8 +19,7 @@ definePageMeta({
         <p class="text-lg leading-relaxed text-slate-500 mt-3">
           Have a project idea? A vision? I am here to help. 
           <br>
-          Drop some info or send an
-          email.
+          Drop some info or send an email.
         </p>
         <div class="mt-5">
           <div class="flex items-center mt-2 space-x-2 text-gray-600">

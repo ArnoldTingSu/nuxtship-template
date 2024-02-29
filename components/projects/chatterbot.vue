@@ -7,7 +7,7 @@
       GPT-Agent Chatbot
     </p>
     <div class="flex mt-5">
-      <LandingLink href="#" styleName="inverted">Start Chatting</LandingLink>
+      <LandingLink href="#" styleName="inverted" target="_blank">Start Chatting</LandingLink>
     </div>
   </div>
   <div class="mt-5 mb-20">
