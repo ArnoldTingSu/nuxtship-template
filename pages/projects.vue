@@ -64,6 +64,7 @@ const pricing = [
 </script>
 
 <template>
+  <title>Arnold Su - Projects</title>
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>Projects</template>

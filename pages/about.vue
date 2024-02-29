@@ -19,6 +19,7 @@ const me = [
 </script>
 
 <template>
+  <title>Arnold Su - About</title>
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>About</template>

@@ -5,6 +5,7 @@ definePageMeta({
 </script>
 
 <template>
+  <title>Arnold Su - Contact</title>
   <LandingContainer>
     <LandingSectionhead>
       <template v-slot:title>Contact</template>

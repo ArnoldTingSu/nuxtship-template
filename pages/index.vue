@@ -5,6 +5,7 @@ definePageMeta({
 </script>
 
 <template>
+  <title>Arnold Su - Developer</title>
   <LandingContainer>
     <LandingHero></LandingHero>
     <LandingFeatures></LandingFeatures>
