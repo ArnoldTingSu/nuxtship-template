@@ -3,38 +3,34 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="rounded-full transition-transform transform hover:scale-125"
-        src="~/assets/img/hero.jpg"
+        src="https://avatars.githubusercontent.com/u/26914510"
         alt="Starship starts the engine"
         loading="eager"
         format="avif"
-        width="512"
-        height="512"
+        width="350"
+        height="256"
       />
     </div>
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Marketing website done with Nuxt
+        Hello!
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Nuxtship is a starter template for startups, marketing websites &
-        landing pages.<wbr /> Built with Nuxt & TailwindCSS. You can quickly
-        create any website with this starter.
+        and welcome to my comprehensive portfolio, a curated compilation of projects, each meticulously documented with the respective tech stack employed.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="https://github.com/Gr33nW33n/nuxtship-template"
-          target="_blank"
-          rel="noopener"
-          >Get Started</LandingLink
+          href="/projects"
+          >Projects</LandingLink
         >
         <LandingLink
           size="lg"
           styleName="outline"
           rel="noopener"
-          href="https://github.com/Gr33nW33n/nuxtship-template"
+          href="https://github.com/arnoldtingsu"
           target="_blank"
-          >View Repo</LandingLink
+          >GitHub</LandingLink
         >
       </div>
     </div>

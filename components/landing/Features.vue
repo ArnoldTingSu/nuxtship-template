@@ -1,39 +1,39 @@
 <script setup>
 const features = [
   {
-    title: "Bring Your Own Framework",
+    title: "Proficient in Multiple Languages",
     description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
-    icon: "bx:bxs-briefcase",
+      "Using mutliple languages, enables me to be versatile and make meaningful contributions to diverse projects.",
+    icon: "bx:code-alt",
   },
   {
-    title: "100% Static HTML, No JS",
+    title: "Strong Problem-Solving Skills",
     description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
-    icon: "bx:bxs-window-alt",
+      "The ability to analyze and resolve complex issues efficiently and creatively; no task or feature is out of reach.",
+    icon: "bx:bxs-cube-alt",
   },
   {
-    title: "On-Demand Components",
+    title: "Version Control Experience(Git)",
     description:
-      "Need some JS? Nuxt can automatically hydrate interactive components when they become visible on the page.  ",
+      "Targeting an issue? Proficient in Git for tracking changes, collaborating with teams, and managing code versions.",
     icon: "bx:bxs-data",
   },
   {
-    title: "Broad Integration",
+    title: "Front and Back-End Proficiency",
     description:
-      "Nuxt supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
-    icon: "bx:bxs-bot",
+      "Utilizing frameworks to create dynamic and interactive interfaces while streamlining server-side processes.",
+    icon: "bx:bxs-adjust",
   },
   {
-    title: "SEO Enabled",
+    title: "Continuous Learning and Adaptability",
     description:
-      "Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication. It just works!",
+      "Committed to staying updated on industry trends and swiftly adapting to evolving technologies.",
     icon: "bx:bxs-file-find",
   },
   {
-    title: "Community",
+    title: "Collaborative Team Player",
     description:
-      "Nuxt is an open source project powered by hundreds of contributors making thousands of individual contributions.",
+      "Able to work effectively within a team, contribute ideas, and engage in open communication for collective success.",
     icon: "bx:bxs-user",
   },
 ];
@@ -42,11 +42,11 @@ const features = [
 <template>
   <div class="mt-16 md:mt-0">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Everything you need to start a website
+      Everything you need from a developer
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      I come with batteries included. Taking the best parts of innovative
+      tools while researching or developing my own innovations.
     </p>
   </div>
 
