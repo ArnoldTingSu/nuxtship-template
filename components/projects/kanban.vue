@@ -7,7 +7,7 @@
       Dynamic workflow board
     </p>
     <div class="flex mt-5">
-      <LandingLink href="#" styleName="inverted">Let's Organize</LandingLink>
+      <LandingLink href="https://kanban.arnold.su" styleName="inverted">Let's Organize</LandingLink>
     </div>
   </div>
   <div class="mt-5 mb-20">
