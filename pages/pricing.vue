@@ -6,11 +6,11 @@ definePageMeta({
 const pricing = [
   {
     name: "Personal",
-    price: "Free",
+    price: "$20",
     popular: false,
     features: [
-      "Lifetime free",
-      "Up to 3 users",
+      "Lifetime free Assessment",
+      "Up to 2 users",
       "Unlimited Pages",
       "Nuxt Sub domain",
       "Basic Integrations",
@@ -24,8 +24,8 @@ const pricing = [
   {
     name: "Startup",
     price: {
-      monthly: "$19",
-      annual: "$16",
+      monthly: "$199",
+      annual: "$2299",
       discount: "10%",
       original: "$24",
     },

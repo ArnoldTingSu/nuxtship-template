@@ -7,7 +7,7 @@
       GPT-Agent Chatbot
     </p>
     <div class="flex mt-5">
-      <LandingLink href="#" styleName="inverted" target="_blank">Start Chatting</LandingLink>
+      <LandingLink href="https://chatterboxai.vercel.app" styleName="inverted" target="_blank">Start Chatting</LandingLink>
     </div>
   </div>
   <div class="mt-5 mb-20">
@@ -16,12 +16,11 @@
       class="flex gap-8 md:gap-20 items-center justify-center mt-5 flex-wrap"
     >
       <Icon class="h-8 md:h-14" name="simple-icons:nuxtdotjs" size="48" />
-      <Icon class="h-8 md:h-14" name="simple-icons:tailwindcss" size="48" />
       <Icon class="h-8 md:h-14" name="simple-icons:vuedotjs" size="48" />
-      <Icon class="h-8 md:h-14" name="simple-icons:python" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:solidity" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:django" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:cplusplus" size="48" />
+      <Icon class="h-8 md:h-14" name="simple-icons:typescript" size="48" />
+      <Icon class="h-8 md:h-12" name="simple-icons:openai" size="48" />
+      <Icon class="h-8 md:h-14" name="simple-icons:tailwindcss" size="48" />
+      <Icon class="h-8 md:h-12" name="simple-icons:vercel" size="48" />
     </div>
   </div>
   <hr>
