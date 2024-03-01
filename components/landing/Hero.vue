@@ -4,7 +4,7 @@
       <img
         class="rounded-full transition-transform transform hover:scale-125"
         src="https://avatars.githubusercontent.com/u/26914510"
-        alt="Starship starts the engine"
+        alt="arnold"
         loading="eager"
         format="avif"
         width="350"
