@@ -3,14 +3,23 @@ const menuitems = [
   {
     title: "Projects",
     path: "/projects",
+    target: ''
   },
   {
     title: "About",
     path: "/about",
+    target: ''
   },
   {
     title: "Contact",
     path: "/contact",
+    target: ''
+
+  },
+  {
+    title: "Resume",
+    path: "/resume.pdf",
+    target: '_blank'
   },
 ];
 
@@ -60,6 +69,7 @@ const open = ref(false);
           <li v-for="item of menuitems">
             <a
               :href="item.path"
+              :target="item.target"
               class="flex lg:px-3 py-2 text-gray-600 hover:text-gray-900"
             >
               {{ item.title }}
